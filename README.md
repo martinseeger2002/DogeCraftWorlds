@@ -6,6 +6,8 @@ https://dogecdn.ordinalswallet.com/inscription/content/9be792fdff747fa77fa4c96ff
 Buy a DogeCraft Doginal at.
 https://doge.ordinalswallet.com/collection/dogecraft
 
+how to load a saved world.
+
 1.) Save the savedWorld.txt to your local computer.
 
 2.) Open the link above.
