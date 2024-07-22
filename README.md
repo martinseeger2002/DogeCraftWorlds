@@ -10,7 +10,8 @@ How to load a saved world.
 
 https://github.com/martinseeger2002/DogeCraftWorlds/blob/main/house.txt
 
-![image](https://github.com/user-attachments/assets/59ac737e-c729-4ec0-973a-385fc5b72246)
+![image](https://github.com/user-attachments/assets/bd083968-f706-4657-95d9-bef3f4f21049)
+
 
 1.) Save the savedWorld.txt to your local computer.
 
