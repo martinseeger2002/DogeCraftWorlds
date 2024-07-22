@@ -7,8 +7,6 @@ How to load a saved world.
 
 https://github.com/martinseeger2002/DogeCraftWorlds/blob/main/house.txt
 
-![image](https://github.com/user-attachments/assets/bd083968-f706-4657-95d9-bef3f4f21049)
-
 1.) Navagate to the saved world you want to play in the browser.
 
 eg. https://github.com/martinseeger2002/DogeCraftWorlds/blob/main/house.txt
