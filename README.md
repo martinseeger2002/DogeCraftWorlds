@@ -8,6 +8,8 @@ https://doge.ordinalswallet.com/collection/dogecraft
 
 How to load a saved world.
 
+https://github.com/martinseeger2002/DogeCraftWorlds/blob/main/house.txt
+
 ![image](https://github.com/user-attachments/assets/59ac737e-c729-4ec0-973a-385fc5b72246)
 
 1.) Save the savedWorld.txt to your local computer.
