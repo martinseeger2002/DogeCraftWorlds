@@ -21,6 +21,12 @@ https://dogecdn.ordinalswallet.com/inscription/content/9be792fdff747fa77fa4c96ff
 
 3.) Click create world.
 
+![image](https://github.com/user-attachments/assets/fc0adaaf-9314-4159-8c06-ff37eed9de97)
+
+
 4.) Click load world and open the savedWorld.txt.
+
+![image](https://github.com/user-attachments/assets/67e1db33-7a5f-4b28-82ad-a03a38be1529)
+
 
 5.) Enjoy.
