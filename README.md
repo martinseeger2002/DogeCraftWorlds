@@ -29,4 +29,4 @@ https://dogecdn.ordinalswallet.com/inscription/content/9be792fdff747fa77fa4c96ff
 ![image](https://github.com/user-attachments/assets/67e1db33-7a5f-4b28-82ad-a03a38be1529)
 
 
-5.) Use "A" "S" "D" "W" to move aroung the world, "space" is jump, left mouse click to remove block, Right mouse click to add a block. 
+5.) Use "A" "S" "D" "W" to move around the world, "space" is jump, left mouse click to remove block, Right mouse click to add a block. 
