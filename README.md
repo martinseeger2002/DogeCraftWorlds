@@ -1,15 +1,5 @@
 Saved worlds for DogeCraft.
 
-Doge Mountain 
-![image](https://github.com/user-attachments/assets/08f7d349-261c-432d-a196-03047a254e5e)
-
-LongMountians
-![image](https://github.com/user-attachments/assets/e6d5d267-93c2-422a-ab46-1887deb3d6ce)
-
-ToTheMoon
-![image](https://github.com/user-attachments/assets/353303b4-6248-47e7-a00e-7550383729e1)
-
-
 play the game for Free at: 
 
 Buy a DogeCraft Doginal at.[here]([URL](https://dogecdn.ordinalswallet.com/inscription/content/9be792fdff747fa77fa4c96ff376855921b7d30701531bd69194e3e4196a0031i0))
@@ -36,8 +26,17 @@ https://dogecdn.ordinalswallet.com/inscription/content/9be792fdff747fa77fa4c96ff
 
 ![image](https://github.com/user-attachments/assets/fc0adaaf-9314-4159-8c06-ff37eed9de97)
 
-
 4.) Click load world and open the savedWorld.txt.
+
+Doge Mountain 
+![image](https://github.com/user-attachments/assets/08f7d349-261c-432d-a196-03047a254e5e)
+
+LongMountians
+![image](https://github.com/user-attachments/assets/e6d5d267-93c2-422a-ab46-1887deb3d6ce)
+
+ToTheMoon
+![image](https://github.com/user-attachments/assets/353303b4-6248-47e7-a00e-7550383729e1)
+
 
 ![image](https://github.com/user-attachments/assets/67e1db33-7a5f-4b28-82ad-a03a38be1529)
 
