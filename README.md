@@ -38,6 +38,9 @@ Doge Mountain
 LongMountians
 ![image](https://github.com/user-attachments/assets/e6d5d267-93c2-422a-ab46-1887deb3d6ce)
 
+giant hollow sphere
+![image](https://github.com/user-attachments/assets/a11a5932-e80d-4a6b-b5d4-bcf3563e407d)
+
 ToTheMoon
 ![image](https://github.com/user-attachments/assets/353303b4-6248-47e7-a00e-7550383729e1)
 
