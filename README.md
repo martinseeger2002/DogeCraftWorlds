@@ -28,6 +28,10 @@ https://dogecdn.ordinalswallet.com/inscription/content/9be792fdff747fa77fa4c96ff
 
 4.) Click load world and open the savedWorld.txt.
 
+![image](https://github.com/user-attachments/assets/67e1db33-7a5f-4b28-82ad-a03a38be1529)
+
+5.) Use "A" "S" "D" "W" to move around the world, "space" is jump, left mouse click to remove block, Right mouse click to add a block. 
+
 Doge Mountain 
 ![image](https://github.com/user-attachments/assets/08f7d349-261c-432d-a196-03047a254e5e)
 
@@ -37,8 +41,3 @@ LongMountians
 ToTheMoon
 ![image](https://github.com/user-attachments/assets/353303b4-6248-47e7-a00e-7550383729e1)
 
-
-![image](https://github.com/user-attachments/assets/67e1db33-7a5f-4b28-82ad-a03a38be1529)
-
-
-5.) Use "A" "S" "D" "W" to move around the world, "space" is jump, left mouse click to remove block, Right mouse click to add a block. 
