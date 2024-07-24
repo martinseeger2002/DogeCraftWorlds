@@ -44,3 +44,5 @@ giant hollow sphere
 ToTheMoon
 ![image](https://github.com/user-attachments/assets/353303b4-6248-47e7-a00e-7550383729e1)
 
+Helix
+![image](https://github.com/user-attachments/assets/e2620677-c53b-41fb-99fd-7f6654952e1a)
