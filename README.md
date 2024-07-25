@@ -56,3 +56,6 @@ Volcano
 Ship
 ![image](https://github.com/user-attachments/assets/a3557935-2aef-44fe-8dd8-d329ae231060)
 
+DeathStar
+![image](https://github.com/user-attachments/assets/b246634f-12bd-4e42-b594-4fe1c8cab335)
+
