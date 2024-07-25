@@ -20,8 +20,6 @@ eg. [house](https://github.com/martinseeger2002/DogeCraftWorlds/blob/main/house.
 
 2.) Open the game link.[Play](https://dogecdn.ordinalswallet.com/inscription/content/9be792fdff747fa77fa4c96ff376855921b7d30701531bd69194e3e4196a0031i0)
 
-https://dogecdn.ordinalswallet.com/inscription/content/9be792fdff747fa77fa4c96ff376855921b7d30701531bd69194e3e4196a0031i0
-
 3.) Click create world.
 
 ![image](https://github.com/user-attachments/assets/fc0adaaf-9314-4159-8c06-ff37eed9de97)
