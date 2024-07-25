@@ -53,4 +53,6 @@ Building
 Volcano
 ![image](https://github.com/user-attachments/assets/beda4a61-0d2f-4cfe-a668-a5537fe4a772)
 
+Ship
+![image](https://github.com/user-attachments/assets/a3557935-2aef-44fe-8dd8-d329ae231060)
 
