@@ -12,7 +12,7 @@ https://github.com/martinseeger2002/DogeCraftWorlds/blob/main/house.txt
 
 1.) Navagate to the saved world you want to play in the browser.
 
-eg. [houes.txt](https://github.com/martinseeger2002/DogeCraftWorlds/blob/main/house.txt)
+eg. [house](https://github.com/martinseeger2002/DogeCraftWorlds/blob/main/house.txt)
 
 1.) Save the savedWorld.txt to your local computer.
 
