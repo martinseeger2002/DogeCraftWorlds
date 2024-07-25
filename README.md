@@ -3,7 +3,7 @@ Saved worlds for DogeCraft.
 Play the game for free at:
 [Play](https://dogecdn.ordinalswallet.com/inscription/content/9be792fdff747fa77fa4c96ff376855921b7d30701531bd69194e3e4196a0031i0)
 
-Buy a DogeCraft Doginal at:
+Supprot delelompnent by buying a DogeCraft Doginal at:
 [Buy](https://doge.ordinalswallet.com/collection/dogecraft)
 
 How to load a saved world.
