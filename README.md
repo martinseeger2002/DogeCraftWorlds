@@ -1,7 +1,7 @@
 Saved worlds for DogeCraft.
 
 play the game for Free at:
-[here]([URL](https://dogecdn.ordinalswallet.com/inscription/content/9be792fdff747fa77fa4c96ff376855921b7d30701531bd69194e3e4196a0031i0)) 
+[here](https://dogecdn.ordinalswallet.com/inscription/content/9be792fdff747fa77fa4c96ff376855921b7d30701531bd69194e3e4196a0031i0)
 
 Buy a DogeCraft Doginal at.
 
