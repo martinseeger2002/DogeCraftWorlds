@@ -28,7 +28,7 @@ eg. [house](https://github.com/martinseeger2002/DogeCraftWorlds/blob/main/house.
 
 ![image](https://github.com/user-attachments/assets/67e1db33-7a5f-4b28-82ad-a03a38be1529)
 
-5.) Use "A" "S" "D" "W" to move around the world, "space" is jump, left mouse click to remove block, Right mouse click to add a block. 
+5.) Use "A" "S" "D" "W" to move around the world, "space" is jump, left click to remove block, right click to add a block. 
 
 Doge Mountain 
 ![image](https://github.com/user-attachments/assets/08f7d349-261c-432d-a196-03047a254e5e)
