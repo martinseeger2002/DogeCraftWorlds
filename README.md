@@ -1,11 +1,10 @@
 Saved worlds for DogeCraft.
 
-play the game for Free at:
-[here](https://dogecdn.ordinalswallet.com/inscription/content/9be792fdff747fa77fa4c96ff376855921b7d30701531bd69194e3e4196a0031i0)
+Play the game for free at:
+[Play](https://dogecdn.ordinalswallet.com/inscription/content/9be792fdff747fa77fa4c96ff376855921b7d30701531bd69194e3e4196a0031i0)
 
-Buy a DogeCraft Doginal at.
-
-https://doge.ordinalswallet.com/collection/dogecraft
+Buy a DogeCraft Doginal at:
+[Buy](https://doge.ordinalswallet.com/collection/dogecraft)
 
 How to load a saved world.
 
@@ -19,7 +18,7 @@ eg. [houes.txt](https://github.com/martinseeger2002/DogeCraftWorlds/blob/main/ho
 
 ![image](https://github.com/user-attachments/assets/bd083968-f706-4657-95d9-bef3f4f21049)
 
-2.) Open the game link.[here](https://dogecdn.ordinalswallet.com/inscription/content/9be792fdff747fa77fa4c96ff376855921b7d30701531bd69194e3e4196a0031i0)
+2.) Open the game link.[Play](https://dogecdn.ordinalswallet.com/inscription/content/9be792fdff747fa77fa4c96ff376855921b7d30701531bd69194e3e4196a0031i0)
 
 https://dogecdn.ordinalswallet.com/inscription/content/9be792fdff747fa77fa4c96ff376855921b7d30701531bd69194e3e4196a0031i0
 
