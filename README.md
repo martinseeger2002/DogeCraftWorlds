@@ -8,8 +8,6 @@ Play the game for free at:
 
 How to load a saved world.
 
-https://github.com/martinseeger2002/DogeCraftWorlds/blob/main/house.txt
-
 1.) Navagate to the saved world you want to play in the browser.
 
 eg. [house](https://github.com/martinseeger2002/DogeCraftWorlds/blob/main/house.txt)
